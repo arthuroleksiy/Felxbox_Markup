@@ -1,0 +1,59 @@
+div .photo {
+/*
+	width: 100%;
+	height: auto;*/
+}
+td {
+
+	background-color: #FF8484;
+	width: 20%;
+	height: 20%;
+}
+
+td .imag {
+	width: 100%;
+	height: auto;
+}
+
+
+th {
+	position:relative;
+	text-align: center;
+	color: white;
+	margin-top: 40%
+	margin-left: 40%;
+}
+
+.projectName, .photo {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	padding: 0,0,0,0;
+}
+
+.photo img {
+
+	padding: 0,0,0,0;
+	width: 100%;
+	height: 100%;
+	border: 1px solid black;
+}
+
+.projectName img{
+	
+	padding: 0,0,0,0;
+	width: 20%;
+	height: 20%;
+
+	border: 1px solid black;
+
+}
+
+.portfolio {
+
+	display: inline-block;
+	margin-top: 20px;
+	width: 100%;
+	height: 100%;
+	border: 1px solid black;
+}
